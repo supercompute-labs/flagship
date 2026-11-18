@@ -1,0 +1,102 @@
+{
+ "EG": {
+  "qa": "18/20",
+  "needles": [
+   [
+    true,
+    "177103"
+   ],
+   [
+    true,
+    "923387"
+   ],
+   [
+    true,
+    "615429"
+   ],
+   [
+    true,
+    "262446"
+   ]
+  ],
+  "misses": [
+   [
+    "How many prime numbers are there between",
+    "ivisible by 2, 3, 4, 6, 8, 12).\n25. **25**: Not prime (divisible by 5).\n26. **26"
+   ],
+   [
+    "What gas do plants absorb from the air f",
+    "plants absorb from the air for photosynthesis is **Carbon Dioxide**.\n\n**$CO_2$**"
+   ]
+  ],
+  "story": "Barnaby was a creature of earth and scent, his paws designed for digging, not gripping rigging. Yet, the salt breeze tangling in his russet fur called to him with an irresistible pull. He had watched the humans in their bright, bobbing shells from the dunes for weeks, his amber eyes wide with a mixture of fear and fascination. One crisp autumn morning, driven by a hunger for something beyond rabbit trails, he crept down to the weathered dock.\n\nHis first attempt was a disaster of tangled lines and panicked yelps. The small wooden skiff rocked violently under his weight, sending him tumbling into the cold, briny water. He sputtered, fur plastered to his shivering body, humiliation burning hotter than the chill. But as he floated, treading water, he noticed how the boat moved not against the wind, but *with* it. He stopped fighting the waves and started listening to them.\n\nBack on the deck, soaked and shivering, Barnaby approached the tiller with reverence. He didn\u2019t use his paws to grip; he used his nose to nudge, his tail to balance. When he finally caught the wind, the skiff surged forward, slicing through the froth. The world became a blur of azure and white. For the first time, Barnaby didn\u2019t just smell the ocean; he *was* the ocean. The salt spray misted his whiskers, and a joyous, silent howl ripped from his throat, echoing off the cliffs. He was no longer just a scavenger of the shore, but a captain of the tide, his spirit as untamed and wild as the sea itself."
+ },
+ "P-prior1.5-skip7": {
+  "qa": "17/20",
+  "needles": [
+   [
+    true,
+    "177103"
+   ],
+   [
+    true,
+    "923387"
+   ],
+   [
+    true,
+    "615429"
+   ],
+   [
+    true,
+    "262446"
+   ]
+  ],
+  "misses": [
+   [
+    "What is the square root of 1764?",
+    "$.\n6.  $7 \\div 7 = 1$.\n\nSo the correct prime factorization is:\n$$1764 = 2 \\times"
+   ],
+   [
+    "What is 1000 - 387?",
+    "finally to the ones place to perform the subtraction.)\n\nThe final answer is 513."
+   ],
+   [
+    "What gas do plants absorb from the air f",
+    "rb **carbon dioxide** from the air for photosynthesis.\n\n**Final Answer:** $CO_2$"
+   ]
+  ],
+  "story": "The salt spray stung Barnaby\u2019s nose, a sharp, briny shock that made his whiskers twitch. For years, he had known only the damp earth of the forest floor, the crunch of autumn leaves, and the soft whisper of wind through pine needles. But the ocean was different; it was a roaring, churning beast that demanded respect, not just observation.\n\nBarnaby, a russet-furred fox with eyes like polished amber, stood precariously on the splintered deck of a discarded dinghy. The boat, named *The Drift*, was less a vessel and more a floating piece of driftwood. His mission: to cross the narrow strait from the mainland to the misty island of his ancestors\u2019 myths.\n\nThe first lesson was balance. When the tide surged, Barnaby\u2019s instinct was to cling to the gunwale, to freeze. The old seagull, Captain Squawk, had taught him otherwise. \u201cLoose is better than tight,\u201d the bird had cawed. So, when the wave lifted *The Drift*, Barnaby didn\u2019t stiffen; he flowed. He bent his knees, letting the boat\u2019s tilt dictate his posture, his paws finding surety on the wet wood through pure instinct.\n\nThe sail was a patchwork quilt of old maps, flapping violently in the gale. Barnaby couldn\u2019t understand the mechanics of wind, but he felt its direction as a pressure against his fur. He adjusted the line, not by calculation, but by the subtle shift in the air\u2019s taste. The boat groaned, tilted dangerously, then straightened.\n\nAs they cut through the foam, the forest receded into a green blur. Barnaby closed his eyes, listening to the water slap the hull. He was no longer just a scavenger of roots and berries; he was a navigator of the deep. When the island\u2019s jagged cliffs finally emerged from the fog, Barnaby didn\u2019t land with a thud, but a glide, his spirit sailing long after the wood touched shore."
+ },
+ "X-relax0.3-prior1.5-skip7": {
+  "qa": "18/20",
+  "needles": [
+   [
+    true,
+    "177103"
+   ],
+   [
+    true,
+    "923387"
+   ],
+   [
+    true,
+    "615429"
+   ],
+   [
+    true,
+    "262446"
+   ]
+  ],
+  "misses": [
+   [
+    "How many prime numbers are there between",
+    "*: Prime (Only divisible by 1 and 23).\n23. **24**: Not prime (Divisible by 2, 3,"
+   ],
+   [
+    "What gas do plants absorb from the air f",
+    "rb **carbon dioxide** from the air for photosynthesis.\n\n**Final Answer:** $CO_2$"
+   ]
+  ],
+  "story": "The salt spray stung Barnaby\u2019s nose, a sharp, unfamiliar sting that replaced the usual scent of damp earth and pine needles. For a fox, the world was a grid of hedgerows and hidden dens, but the open ocean was a terrifying, glittering void. It began with a curious nose twitching at the edge of the dock in Port Haven, where the tide pulled at the wood with a rhythmic, hypnotic groan.\n\nBarnaby, a russet-furred creature of instinct and caution, had never ventured beyond the treeline. Yet, the call of the horizon was louder than the fear of the deep. He slipped onto a weathered dinghy, his paws slipping on the damp, salt-crusted planks. The boat rocked violently, a wooden beast waking from slumber. Panic flared, hot and bright, but Barnaby forced himself to breathe. He learned quickly that the wind was not an enemy, but a partner.\n\nHe watched the sails, tattered and patched, billow like the wings of great birds. His ears, usually tuned to the rustle of a vole, now listened to the creak of the rigging and the snap of the canvas. He discovered that patience was the true rudder. When the storm broke, rain lashing like icy needles, Barnaby huddled in the bow, his fur matted and shivering. He didn\u2019t fight the waves; he rode them, trusting the swell to lift him as surely as the earth had always held him.\n\nBy dawn, the sea was a mirror of liquid gold. Barnaby stood at the helm, his tail stiff with pride, not as a predator, but as a navigator. He had traded the safety of the burrow for the endless blue, finding that freedom was not a place, but a direction. The fox, once bound by the forest, now danced with the tides, a small, bright spark against the vast, indifferent sea."
+ }
+}

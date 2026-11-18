@@ -1,0 +1,3 @@
+[["EG", ["--kv-resident", "0", "--prefill-cpu-share", "0.4"]],
+ ["P-prior1.5-skip7", ["--kv-resident", "0", "--prefill-cpu-share", "0.4", "--route-prior", "1.5", "--route-tail-skip", "7"]],
+ ["X-relax0.3-prior1.5-skip7", ["--kv-resident", "0", "--prefill-cpu-share", "0.4", "--relaxed-drafting", "0.3", "--route-prior", "1.5", "--route-tail-skip", "7"]]]

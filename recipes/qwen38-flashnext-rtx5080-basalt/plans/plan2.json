@@ -1,0 +1,11 @@
+[["A-base", []],
+ ["EG", ["--kv-resident", "0", "--prefill-cpu-share", "0.4"]],
+ ["EG-cs0.2", ["--kv-resident", "0", "--prefill-cpu-share", "0.2"]],
+ ["EG", ["--kv-resident", "0", "--prefill-cpu-share", "0.4"]],
+ ["EG-cs0.3", ["--kv-resident", "0", "--prefill-cpu-share", "0.3"]],
+ ["EG-spec10", ["--kv-resident", "0", "--prefill-cpu-share", "0.4", "--spec", "10"]],
+ ["EG", ["--kv-resident", "0", "--prefill-cpu-share", "0.4"]],
+ ["EG-pool8", ["--kv-resident", "0", "--prefill-cpu-share", "0.4", "--pool-workers", "8"]],
+ ["EG-pool6", ["--kv-resident", "0", "--prefill-cpu-share", "0.4", "--pool-workers", "6"]],
+ ["EG", ["--kv-resident", "0", "--prefill-cpu-share", "0.4"]],
+ ["A-base", []]]

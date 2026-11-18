@@ -1,0 +1,11 @@
+[["A-base", []],
+ ["B-ram1024-pc2", ["--ram-reserve-mib", "1024", "--prompt-cache", "2"]],
+ ["C-spec6", ["--spec", "6"]],
+ ["A-base", []],
+ ["D-spec10", ["--spec", "10"]],
+ ["E-kvres0", ["--kv-resident", "0"]],
+ ["A-base", []],
+ ["F-prefill32k", ["--prefill", "auto:32768"]],
+ ["G-cpushare0.4", ["--prefill-cpu-share", "0.4"]],
+ ["H-cpushare0.8", ["--prefill-cpu-share", "0.8"]],
+ ["A-base", []]]
